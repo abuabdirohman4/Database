@@ -1,0 +1,8 @@
+[submodule "db-postgre"]
+	path = db-postgre
+	url = git@github.com:abuabdirohman4/db-postgre.git
+	branch = main
+[submodule "db-mysql"]
+	path = db-mysql
+	url = git@github.com:abuabdirohman4/db-mysql.git
+	branch = main
